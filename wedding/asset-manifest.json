@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.c28cd5ee.css",
-    "main.js": "/static/js/main.f46eabb7.js",
-    "static/media/music.mp3": "/static/media/music.8dbb2c2857e72a81aaa2.mp3",
-    "static/media/couple.png": "/static/media/couple.dc65bab7a6ac2cf819a6.png",
-    "static/media/restaurant1.JPG": "/static/media/restaurant1.cf5790f6d5ebdaadfebc.JPG",
-    "static/media/2408383.png": "/static/media/2408383.8ebb53d08e31df5870dd.png",
-    "static/media/BScript_D.ttf": "/static/media/BScript_D.d1eb3c7010fd04f9563e.ttf",
-    "static/media/man.jpg": "/static/media/man.6e288f0d2edda4facc4c.jpg",
-    "static/media/woomen.jpg": "/static/media/woomen.09b3c5e2c1721a412c39.jpg",
-    "static/media/woomen1.JPG": "/static/media/woomen1.7fc9a07c65d066f5ebbc.JPG",
-    "static/media/man1.JPG": "/static/media/man1.e6d77e4a860f626e8fb7.JPG",
-    "index.html": "/index.html",
-    "main.c28cd5ee.css.map": "/static/css/main.c28cd5ee.css.map",
-    "main.f46eabb7.js.map": "/static/js/main.f46eabb7.js.map"
+    "main.css": "/wedding/static/css/main.1a47c637.css",
+    "main.js": "/wedding/static/js/main.63489ded.js",
+    "static/media/music.mp3": "/wedding/static/media/music.8dbb2c2857e72a81aaa2.mp3",
+    "static/media/couple.png": "/wedding/static/media/couple.dc65bab7a6ac2cf819a6.png",
+    "static/media/restaurant1.JPG": "/wedding/static/media/restaurant1.cf5790f6d5ebdaadfebc.JPG",
+    "static/media/2408383.png": "/wedding/static/media/2408383.8ebb53d08e31df5870dd.png",
+    "static/media/BScript_D.ttf": "/wedding/static/media/BScript_D.d1eb3c7010fd04f9563e.ttf",
+    "static/media/man.jpg": "/wedding/static/media/man.6e288f0d2edda4facc4c.jpg",
+    "static/media/woomen.jpg": "/wedding/static/media/woomen.09b3c5e2c1721a412c39.jpg",
+    "static/media/woomen1.JPG": "/wedding/static/media/woomen1.7fc9a07c65d066f5ebbc.JPG",
+    "static/media/man1.JPG": "/wedding/static/media/man1.e6d77e4a860f626e8fb7.JPG",
+    "index.html": "/wedding/index.html",
+    "main.1a47c637.css.map": "/wedding/static/css/main.1a47c637.css.map",
+    "main.63489ded.js.map": "/wedding/static/js/main.63489ded.js.map"
   },
   "entrypoints": [
-    "static/css/main.c28cd5ee.css",
-    "static/js/main.f46eabb7.js"
+    "static/css/main.1a47c637.css",
+    "static/js/main.63489ded.js"
   ]
 }
